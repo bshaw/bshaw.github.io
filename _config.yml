@@ -1,10 +1,13 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: bshaw.github.io
+email: brian.b.shaw@gmail.com
+description: "Just another collection of 1s and 0s that most of the Ineternet will nerver see. I will try to post things I find useful / interesting here."
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://bshaw.github.io"
+username: bshaw
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+timezone: America/Indiana/Indianapolis
