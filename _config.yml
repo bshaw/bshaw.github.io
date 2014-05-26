@@ -1,9 +1,9 @@
 # Site settings
-title: bshaw.github.io
+title: bshaw.io
 email: brian.b.shaw@gmail.com
 description: "Just another collection of 1s and 0s that most of the Ineternet will nerver see. I will try to post things I find useful / interesting here."
 baseurl: ""
-url: "http://bshaw.github.io"
+url: "http://bshaw.io"
 username: bshaw
 
 # Build settings
