@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: Links
 permalink: /links/
 ---
 
-Links to my content on other sites.
+#Links to my content on other sites
 
 [How this organization overcame 3 common cloud migration challenges - The SHI Blog](http://blog.shi.com/2015/04/16/how-this-organization-overcame-3-common-cloud-migration-challenges/#.VTa2JIlvhpY.link)
 
