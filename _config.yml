@@ -10,6 +10,6 @@ username: bshaw
 markdown: kramdown
 permalink: pretty
 
-timezone: America/Indiana/Indianapolis
+timezone: Europe/London
 
 include: [".well-known"]
