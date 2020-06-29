@@ -1,8 +1,3 @@
 ---
-layout: default
-# title: Home
+redirect_to: https://sha.ws
 ---
-
-London based Cloud Solutions Architect.
-
-Currently working at [Virtusa](https://cloud.virtusa.com).

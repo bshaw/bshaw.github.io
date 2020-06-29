@@ -13,3 +13,6 @@ permalink: pretty
 timezone: Europe/London
 
 include: [".well-known"]
+
+plugins:
+  - jekyll-redirect-from
