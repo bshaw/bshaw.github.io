@@ -1,16 +1,5 @@
-# Site settings
 title: bshaw.io
-email: brian.b.shaw@gmail.com
-description: Brian Shaw
-baseurl: ""
 url: "http://bshaw.io"
-username: bshaw
-
-# Build settings
-markdown: kramdown
-permalink: pretty
-
-timezone: Europe/London
 
 plugins:
   - jekyll-redirect-from
